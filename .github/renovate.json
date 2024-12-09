@@ -14,7 +14,7 @@
   "gitIgnoredAuthors": ["no-reply@studiocms.dev"],
   "prHourlyLimit": 3,
   "rangeStrategy": "bump",
-  "reviewers": ["team:exalted"],
+  "updatePinnedDependencies": false,
   "packageRules": [
     {
       "matchDepTypes": ["peerDependencies"],
