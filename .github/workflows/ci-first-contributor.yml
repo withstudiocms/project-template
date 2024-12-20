@@ -38,7 +38,7 @@ jobs:
 
             - The StudioCMS Team
 
-          pr-message: >
+          pr-opened-message: >
             Hello @${{ github.event.pull_request.user.login }}, and thank you for opening your first pull request to the StudioCMS Ecosystem! 🎉
 
             Please make sure to review the project's [Contributing Guide](https://github.com/withstudiocms/.github/blob/main/CONTRIBUTING.md) to ensure your pull request meets our quality standards.
